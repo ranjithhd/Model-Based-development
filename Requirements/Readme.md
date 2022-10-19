@@ -3,7 +3,7 @@
 | **ID** | **Description Category** | **status** |
 | --- | --- | --- |
 | HR01 | Brake should be applied slowly | Vehicle speed will be reduced littlebit & Back light should be ON |
-| HR02 | Brake Should be applied | Car shoud be stopped & Back light should be ON|
+| HR02 | Brake Should be applied fully | Car shoud be stopped & Back light should be ON|
 
 **Low\_level\_Requirements:**
 
