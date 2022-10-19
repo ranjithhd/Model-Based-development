@@ -9,7 +9,7 @@
 
 | **ID** | **Description Category** | **status** |
 | --- | --- | --- |
-| LR01 | Brake must be slowly applied for before 80m of the obstacle | Speed will be reduced slowly & Backlight should be ON | 
-| LR02 | Brake must be applied for before  60m of the obstacle | Speed will be stil reduced  & Backlight should be ON | 
-| LR03 | Brake must be applied greatly for before 30m of the obstacle | Speed will be reduced greatly & Backlight should be ON | 
-| LR04 | Brake must be applied fully before 5m of the obstacle | Vehicle should be stopped & Backlight should be ON | 
+| LR01 | Brake should be be slowly applied for before 80m of the obstacle | Speed will be reduced slowly & Backlight should be ON | 
+| LR02 | Brake should be applied for before  60m of the obstacle | Speed will be stil reduced  & Backlight should be ON | 
+| LR03 | Brake should be applied greatly for before 30m of the obstacle | Speed will be reduced greatly & Backlight should be ON | 
+| LR04 | Brake should be applied fully before 5m of the obstacle | Vehicle should be stopped & Backlight should be ON | 
